@@ -1,0 +1,11 @@
+path: /content/data
+train: train/images
+val: validation/images
+nc: 6
+names:
+- '10'
+- '100'
+- '20'
+- '200'
+- '50'
+- '500'
